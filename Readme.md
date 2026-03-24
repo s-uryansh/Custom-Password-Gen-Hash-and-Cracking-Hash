@@ -9,9 +9,9 @@ generate.go uses DFS and backtracking to generate all possible permutation of ba
 
 # Usage
 
-`git clone https://github.com/s-uryansh/Custom-Password-Cracking-Pipeline-Leet-Based-Generation-SHA-1-Hashing-Hashcat-Analysis.git`
+`git clone https://github.com/s-uryansh/Custom-Password-Gen-Hash-and-Cracking-Hash.git`
 
-`cd Assignment2`
+`cd Custom-Password-Gen-Hash-and-Cracking-Hash`
 
 `go mod tidy`
 
