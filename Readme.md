@@ -9,7 +9,7 @@ generate.go uses DFS and backtracking to generate all possible permutation of ba
 
 # Usage
 
-`git clone url`
+`git clone https://github.com/s-uryansh/Custom-Password-Cracking-Pipeline-Leet-Based-Generation-SHA-1-Hashing-Hashcat-Analysis.git`
 
 `cd Assignment2`
 
